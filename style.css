@@ -1,0 +1,48 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header h4{
+    font-family:  'Lucida Sans', Arial, sans-serif;
+    font-size: 2.2em;
+    text-align: center;
+    text-transform: uppercase;
+    text-justify: auto;
+    text-shadow: 2px 2px 2px #d4d4d4;
+}
+.parallax-one{
+    /*background-image*/
+    background-image: url(images/pic1.jpeg);
+    background-attachment: fixed;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.text{
+    font-size: 25px;
+    color: #ff44;
+    text-transform: capitalize;
+    
+}
+
+
+.parallax-two{
+    /*background-image*/
+    background-image: url(images/pic2.jpeg);
+    background-attachment: fixed;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+
+.parallax-three{
+    /*background-image*/
+    background-image: url(images/pic3.jpeg);
+    background-attachment: fixed;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
